@@ -29,7 +29,7 @@ showcase: |
         OpenTAP™ use spans from R&D test automation (e.g., a baseband IC, an RF IC) to
         large manufacturing line of electronic devices (from simple components to fully build systems).
     </p>
-    <a class="btn btn-primary btn-sm mb-3" href="https://opentap.io/about.html">Learn More</a>
+    <a class="btn btn-primary btn-sm mb-3" href="https://opentap.io/about.html" target="_blank">Learn More</a>
 
     <br/>
     <br/>
@@ -46,7 +46,7 @@ showcase: |
                     <div class="card-body">
                         <h5 class="card-title">What is OpenTAP?</h5>
                         <p class="card-text">Architecture and goals of the OpenTAP framework</p>
-                        <a href="https://www.youtube.com/watch?v=DNR9rYfIAcc&ab_channel=OpenTAP" class="btn btn-primary">Watch</a>
+                        <a href="https://www.youtube.com/watch?v=DNR9rYfIAcc&ab_channel=OpenTAP" target="_blank" class="btn btn-primary">Watch</a>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@ showcase: |
                     <div class="card-body">
                         <h5 class="card-title">Why open source for Test Automation?</h5>
                         <p class="card-text">Reason behind choosing open source for Test Automation</p>
-                        <a href="https://www.youtube.com/watch?v=vKpTJH9lDXg&ab_channel=OpenTAP" class="btn btn-primary">Watch</a>
+                        <a href="https://www.youtube.com/watch?v=vKpTJH9lDXg&ab_channel=OpenTAP" target="_blank" class="btn btn-primary">Watch</a>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@ showcase: |
                     <div class="card-body">
                         <h5 class="card-title">How does OpenTAP empower experts?</h5>
                         <p class="card-text">Listen to how OpenTAP can be used to reduce automation effort</p>
-                        <a href="https://www.youtube.com/watch?v=U9FOWG-R0rA&ab_channel=OpenTAP" class="btn btn-primary">Watch</a>
+                        <a href="https://www.youtube.com/watch?v=U9FOWG-R0rA&ab_channel=OpenTAP" target="_blank" class="btn btn-primary">Watch</a>
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@ showcase: |
                     <div class="card-body">
                         <h5 class="card-title">Robotic Arm Control using OpenTAP</h5>
                         <p class="card-text">How we used OpenTAP to automate robotic arm control</p>
-                        <a href="https://www.youtube.com/watch?v=Plpn8Em6h9E&ab_channel=OpenTAP" class="btn btn-primary">Watch</a>
+                        <a href="https://www.youtube.com/watch?v=Plpn8Em6h9E&ab_channel=OpenTAP" target="_blank" class="btn btn-primary">Watch</a>
                     </div>
                 </div>
             </div>
@@ -104,7 +104,7 @@ showcase: |
     <p>
         We have launched a brand new forum for the growing community of OpenTAP developers to interact by asking questions, share news and findings, posting ideas and being part of the community!   
     </p>
-    <a class="btn btn-primary btn-sm mb-3" href="https://forum.opentap.io">
+    <a class="btn btn-primary btn-sm mb-3" href="https://forum.opentap.io" target="_blank">
         Join now!
     </a>
     
@@ -179,7 +179,7 @@ showcase: |
     <p>
         Our latest release of OpenTAP is <code>v9.12</code> released in Jan 2021.
     </p>
-    <a class="btn btn-primary btn-sm mb-3" href="https://opentap.io/download.html">Download</a>
+    <a class="btn btn-primary btn-sm mb-3" href="https://opentap.io/download.html" target="_blank">Download</a>
     <br/>
     <br/>
     <br/>
@@ -188,7 +188,7 @@ showcase: |
     <p>
         Python is a very popular programming language in the test and automation space. The Python Plugin makes it possible to use Python and OpenTAP together, allowing you to write fully functioning plugins using Python.
     </p>
-    <a class="btn btn-primary btn-sm mb-3" href="https://gitlab.com/OpenTAP/Plugins/python">Learn More</a>
+    <a class="btn btn-primary btn-sm mb-3" href="https://gitlab.com/OpenTAP/Plugins/python" target="_blank">Learn More</a>
 
     <br/>
     <br/>
@@ -201,7 +201,7 @@ showcase: |
 
         It supports running in almost every terminal including in Docker containers!
     </p>
-    <a class="btn btn-primary btn-sm mb-3" href="https://gitlab.com/OpenTAP/Plugins/keysight/opentap-tui">Learn More</a>
+    <a class="btn btn-primary btn-sm mb-3" href="https://gitlab.com/OpenTAP/Plugins/keysight/opentap-tui" target="_blank">Learn More</a>
 
     <hr style="clear:both;" />
 
