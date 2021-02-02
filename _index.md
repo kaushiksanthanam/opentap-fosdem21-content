@@ -34,7 +34,15 @@ showcase: |
     <br/>
     <br/>
     
+    <hr style="clear:both;" />
+    <h5 id="opentap-subscribe">Sign up for our newsletter</h5>
+    <p> Interested in signing up for our newsletter? Complete the form to connect with us and subscribe to our newsletter! </p>
+    <a class="btn btn-primary btn-sm mb-3" href="http://eepurl.com/gr0G59" target="_blank">
+        Sign up
+    </a>
 
+    <br/>
+    <br/>
     
     <h2 id="opentap-watch">Watch and Learn!</h2>
     <hr style="clear:both;" />
@@ -92,6 +100,33 @@ showcase: |
     </div>
 
     <br/>
+
+    <div class="container" style="float: none; horizontal-align: center;">
+        <div class="row">
+            <div class="col-sm">
+                <div class="card" style="width: 15rem; height: 21rem;">
+                    <img class="card-img-top" src="pythonplugin.png" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">Python Plugin Integration</h5>
+                        <p class="card-text">Learn how you can use python to write powerful plugins</p>
+                        <a href="https://youtu.be/WxPn83N1HFQ" target="_blank" class="btn btn-primary">Watch</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="card" style="width: 15rem; height: 21rem;">
+                    <img class="card-img-top" src="telemetry.png" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">Telemetry, Dashboards and Insights</h5>
+                        <p class="card-text">Learn how we are improving our community and adoption</p>
+                        <a href="https://blog.opentap.io/taking-the-pulse-of-the-opentap-ecosystem/" target="_blank" class="btn btn-primary">Read</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br/>
     <br/>
     <br/>
     <br/>
@@ -105,16 +140,9 @@ showcase: |
         We have launched a brand new forum for the growing community of OpenTAP developers to interact by asking questions, share news and findings, posting ideas and being part of the community!   
     </p>
     <a class="btn btn-primary btn-sm mb-3" href="https://forum.opentap.io" target="_blank">
-        Join now!
+        Explore our Forum!
     </a>
-    
-    <hr style="clear:both;" />
-    <h5 id="opentap-subscribe">Sign up for our newsletter</h5>
-    <p> Interested in signing up for our newsletter? Complete the form to connect with us and subscribe to our newsletter! </p>
-    <a class="btn btn-primary btn-sm mb-3" href="http://eepurl.com/gr0G59" target="_blank">
-        Sign up
-    </a>
-    
+ 
 
 
     <br/>
