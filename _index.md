@@ -119,7 +119,7 @@ showcase: |
                     <div class="card-body">
                         <h5 class="card-title">Telemetry, Dashboards and Insights</h5>
                         <p class="card-text">Learn how we are improving our community and adoption</p>
-                        <a href="https://blog.opentap.io/taking-the-pulse-of-the-opentap-ecosystem/" target="_blank" class="btn btn-primary">Read</a>
+                        <a href="https://blog.opentap.io/taking-the-pulse-of-the-opentap-r-ecosystem" target="_blank" class="btn btn-primary">Read</a>
                     </div>
                 </div>
             </div>
